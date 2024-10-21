@@ -95,7 +95,7 @@ local FOV_Appearance = AimbotTab:CreateSection({
 --// Visuals Sections
 
 local WallHackChecks = VisualsTab:CreateSection({
-	Name = "Checks"
+	Name = "ESP"
 })
 
 local ESPSettings = VisualsTab:CreateSection({
